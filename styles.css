@@ -630,6 +630,7 @@ a {
 @media (max-width: 1024px) {
     .container {
         padding: 0 1.5rem;
+       display: contents;
     }
 }
 
@@ -690,4 +691,5 @@ a {
     .btn {
         border: 1px solid black;
     }
+
 }
